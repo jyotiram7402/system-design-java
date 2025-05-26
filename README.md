@@ -1,9 +1,9 @@
 <h1 align="center">🧠 System Design in Java 🚀</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/your-username/system-design-java?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/forks/your-username/system-design-java?style=social" alt="Forks">
-  <img src="https://img.shields.io/github/license/your-username/system-design-java" alt="License">
+  <img src="https://img.shields.io/github/stars/jyotiram7402/jyotiram7402system-design-java?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/jyotiram7402/system-design-java?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/license/jyotiram7402/system-design-java" alt="License">
 </p>
 
 <p align="center">
@@ -44,5 +44,57 @@
 
 ---
 
-## 🗂️ Repository Structure
+
+---
+
+## 🧠 Topics Covered
+
+| Topic | Description |
+|-------|-------------|
+| ⚙️ Load Balancers | Distribute traffic across multiple servers |
+| 💾 Caching | Improve performance with in-memory data |
+| 🛠️ API Design | RESTful APIs with rate limiting |
+| 📡 Message Queues | Decouple services using Kafka |
+| 📚 Database Scaling | SQL vs NoSQL, sharding, replication |
+| 🔐 Security & Auth | JWT, OAuth2, API Gateway |
+
+---
+
+## 🎯 Use Cases
+
+- 💼 Interview preparation for top tech companies  
+- 🛠️ Building production-grade backend systems in Java  
+- 🌐 Understanding distributed system concepts  
+
+---
+
+## 📈 Contribution Guidelines
+
+Contributions are welcome! If you have an interesting system to design or a case study to share:
+
+1. Fork this repository
+2. Create a new branch: `feature/my-awesome-system`
+3. Commit your changes
+4. Open a pull request
+
+---
+
+## ⭐ Show Your Support
+
+If you found this repo useful, please consider giving it a ⭐ and sharing it with others.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jyotiram-kamble-81398122b/)
+- 🐙 [GitHub](https://github.com/jyotiram7402)
+
+---
+
+> Made with ❤️ by ** Jyotiram**
 
